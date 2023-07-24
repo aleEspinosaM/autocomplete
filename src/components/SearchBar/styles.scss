@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  .search,
+  .navigation {
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+    margin-left: 10px;
+  }
+}
